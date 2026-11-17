@@ -1,21 +1,8 @@
 from colorama import init, Fore; import os
 try:
-    os.system("title Rwshny EXE Size Booster")
+    os.system("title EXE Size Booster")
 except Exception:
   pass
-print(Fore.LIGHTGREEN_EX + r"""
-      
-      
-      
-                                ____               _                   _____ ____  ____  
-                               |  _ \__      _____| |__  _ __  _   _  | ____/ ___|| __ ) 
-                               | |_) \ \ /\ / / __| '_ \| '_ \| | | | |  _| \___ \|  _ \ 
-                               |  _ < \ V  V /\__ \ | | | | | | |_| | | |___ ___) | |_) |
-                               |_| \_\ \_/\_/ |___/_| |_|_| |_|\__, | |_____|____/|____/ 
-                                                               |___/  
-                                                            
-                                                                               
-      """)
 try:
     init()
     while True:
