@@ -37,6 +37,6 @@ Run the install.bat file
 ```
 
 
-## **Code Output**
+## **Code Output :**
 
 ![App Screenshot](https://i.postimg.cc/prnBxnCK/image.png)
