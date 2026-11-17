@@ -39,4 +39,4 @@ Run the install.bat file
 
 ## **Code Output**
 
-![App Screenshot](https://i.postimg.cc/85wyhg2H/image.png)
+![App Screenshot](https://i.postimg.cc/prnBxnCK/image.png)
